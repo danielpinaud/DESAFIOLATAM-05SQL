@@ -1,3 +1,5 @@
+CREATE DATABASE DESAFIO_DANIEL_PINAUD_001;
+
 1. Crea y agrega al entregable las consultas para completar el setup de acuerdo a lo
 pedido.
 
